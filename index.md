@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Welcome to MC commands
 
-You can use the [editor on GitHub](https://github.com/MrFiend179/github-slideshow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+today ill be showing you some MC(Minecraft) commands 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+They come handy and will help you in grave danger or other things like dying or stuff
 
-### Markdown
+## Enabling LAN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+LAN is abbrevation of "local area network" and is very helpful and important to enable commands on your singleplayer world
+To make sure your LAN is enabled make sure to check it in the settings or options
 
-```markdown
-Syntax highlighted code block
+now copy the following steps carefully:-
 
-# Header 1
-## Header 2
-### Header 3
+#### Settings,option
+#### Open to LAN
+#### Allow chests:ON (IT will be turned off in newly created world)
 
-- Bulleted
-- List
+There youll be shifted to LAN port and will be able to write commands
 
-1. Numbered
-2. List
+Now there are numbers of command that you can do
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Gamemode Changer
+To change gamemode from survival to creative
 ```
+/gamemode creative
+```
+To change gamemode from creative to survival
+```
+/gamemode survival
+```
+with that being said lets move to death command
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## SUDO
+```
+/sudo
+```
+a dangerous command that is more likely to ban you from any server cuz its a cheating
+sudo makes the entity do whatever you like but for now lets stay to gamemode changer
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrFiend179/github-slideshow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Hope you learned something and ill post every week about new and new commands
